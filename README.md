@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currenlty learning HTML, CCS and Javascript. 
+
+Stay tuned 😋

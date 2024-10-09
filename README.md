@@ -42,9 +42,9 @@ I have set up my own server(Pickle Server) and acquired my own DNS. All projects
 
 |               Project |                                                            |                                                          | Key Tech             |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
-| BagIt| [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code) | [Demo](https://bc13-final-project-front-end-beast-code-beast-code.vercel.app/) | Next, React, TypeScript, Postgres, Supabase, Playwright     |
-|          UpliftAI | [Github](https://github.com/faseehahmed1/FrontEnd_Solo_HackStreetBoys)        | [Demo](https://connect-project-hub.netlify.app/)         | React, openAI API     |
-|          Weather app | [Github](https://github.com/faseehahmed1/portfolio)        | [Demo](https://faseehahmed.netlify.app/)         | Next, openweather API     |
+| BagIt| [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code) | [Live](https://bc13-final-project-front-end-beast-code-beast-code.vercel.app/) | Next, React, TypeScript, Postgres, Supabase, Playwright     |
+|          UpliftAI | [Github](https://github.com/faseehahmed1/FrontEnd_Solo_HackStreetBoys)        | [Live](https://connect-project-hub.netlify.app/)         | React, openAI API     |
+|          Weather app | [Github](https://github.com/faseehahmed1/portfolio)        | [Live](https://faseehahmed.netlify.app/)         | Next, openweather API     |
 
 
 

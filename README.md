@@ -32,13 +32,8 @@ In the summer of 2024, I decided to stop letting fear rule my life. I quit my jo
 
 [comment]: <> ( To create more badges, use https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-
-## Featured Projects 
-
-
+### Featured Projects 
 I have set up my own server(Pickle Server) and acquired my own DNS. All projects are deployed on my own server using Coolify.
-
-
 
 |               Project |                                                            |                                                          | Key Tech             |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
@@ -51,8 +46,7 @@ I have set up my own server(Pickle Server) and acquired my own DNS. All projects
 [comment]: <> (This is a comment, it will not be included)
 
 
-### Where to find me
-                  
+### Connect     
 <p align="left">
 <a href="https://www.linkedin.com/in/sayed-sais-47b47a105" target="_blank" rel="noreferrer">
 <picture>

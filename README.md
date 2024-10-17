@@ -42,8 +42,8 @@ I have set up my own server(Pickle Server) and acquired my own DNS. All projects
 |               Project |                                                            |                                                          | Key Tech             |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
 |                  BagIt| [Github](https://github.com/SSais/BagIt)                   | [Live]()                                                 | Next, React, TypeScript, Postgres, Supabase, Playwright     |
-|              UpliftAI | [Github](https://github.com/faseehahmed1/FrontEnd_Solo_HackStreetBoys)  | [Live]()                                    | React, openAI API     |
-|           Weather app | [Github](https://github.com/faseehahmed1/portfolio)        | [Live]()                                                 | Next, openweather API     |
+|              UpliftAI | [Github](https://github.com/SSais/UpliftAI)  | [Live]()                                    | React, openAI API     |
+|           Weather app | [Github]()        | [Live]()                                                 | Next, openweather API     |
 
 
 

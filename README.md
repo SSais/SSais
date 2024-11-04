@@ -3,7 +3,6 @@ I have worked in the biotech industry for a few years, but always had a passion 
 In the summer of 2024, I decided to stop letting fear rule my life. I quit my job and soon enrolled in the Full Stack Development bootcamp at the School of Code, and have not looked back! I'm dedicated to building my skills as a software engineer, I bring a unique combination of analytical problem solving, a posititve attitude and a hunger to learn and create!
 
 - 🌍  Based in London, UK
-- 🌱 Currently learning python and advancing my SQL & database knowledge
 - 🔭 Working on writing a beginners guide on self hosting
 
 [comment]: <> (- 📫 How to reach me: **[your email address or other contact information]**)

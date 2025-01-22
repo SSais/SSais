@@ -39,11 +39,11 @@ In the summer of 2024, I decided to stop letting fear rule my life. I quit my jo
 
 Under construction: 
 
-|               Project |                                                            |                                                          | Key Tech             |
-| --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
-|                  BagIt| [Github](https://github.com/SSais/BagIt)                   | [Live]()                                                 | Next, React, TypeScript, Postgres, Supabase, Playwright     |
-|              UpliftAI | [Github](https://github.com/SSais/UpliftAI)  | [Live]()                                    | React, openAI API     |
-|           Weather app | [Github]()        | [Live]()                                                 | Next, openweather API     |
+| Project               | Github Link                                                | Deployed Link                                            | 
+| --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | 
+|                  BagIt| [Github](https://github.com/SSais/BagIt)                   | [Live]()                                                 | 
+|              UpliftAI | [Github](https://github.com/SSais/UpliftAI)  | [Live]()                                    | 
+|           Weather app | [Github]()        | [Live]()                                                 |
 
 
 

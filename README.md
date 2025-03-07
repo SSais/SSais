@@ -35,17 +35,6 @@ In the summer of 2024, I decided to stop letting fear rule my life. I quit my jo
 
 [comment]: <> ( To create more badges, use https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-### Featured Projects 
-
-Under construction: 
-
-| Project               | Github Link                                                | Deployed Link                                            | 
-| --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | 
-|                  BagIt| [Github](https://github.com/SSais/BagIt)                   | [Live]()                                                 | 
-|              UpliftAI | [Github](https://github.com/SSais/UpliftAI)  | [Live]()                                    | 
-|           Weather app | [Github]()        | [Live]()                                                 |
-
-
 
 [comment]: <> (This is a comment, it will not be included)
 
